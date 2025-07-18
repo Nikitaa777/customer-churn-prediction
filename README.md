@@ -1,5 +1,5 @@
 # customer-churn-prediction
-Predicting telco customer churn using python and ML.
+Predicting Telco Customer churn(risk of leaving) using python and ML.
 #  Customer Churn Prediction
 
 This project predicts whether a customer is likely to churn (leave) based on their usage patterns and demographics.  
